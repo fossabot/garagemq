@@ -1,4 +1,5 @@
 # GarageMQ [![Build Status](https://travis-ci.org/valinurovam/garagemq.svg?branch=master)](https://travis-ci.org/valinurovam/garagemq) [![Coverage Status](https://coveralls.io/repos/github/valinurovam/garagemq/badge.svg)](https://coveralls.io/github/valinurovam/garagemq) [![Go Report Card](https://goreportcard.com/badge/github.com/valinurovam/garagemq)](https://goreportcard.com/report/github.com/valinurovam/garagemq)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkubemq%2Fgaragemq.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkubemq%2Fgaragemq?ref=badge_shield)
 
 GarageMQ is a message broker that implement the Advanced Message Queuing Protocol (AMQP). Compatible with any AMQP or RabbitMQ clients (tested streadway/amqp and php-amqp lib)
 
@@ -171,3 +172,6 @@ The administration server is available at standard `:15672` port and is `read on
 
 ## Contribution
 Contribution of any kind is always welcome and appreciated. Contribution Guidelines in WIP
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkubemq%2Fgaragemq.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkubemq%2Fgaragemq?ref=badge_large)
